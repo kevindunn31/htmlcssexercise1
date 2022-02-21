@@ -1,0 +1,21 @@
+p {
+    height: 30px; 
+    width: 100px;
+    padding: 15px;
+    background-color: red;
+    border: white;
+  
+
+
+}
+
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    height: 30px;
+    width: 100px;
+    padding: 15px;
+    background-color: red;
+}
